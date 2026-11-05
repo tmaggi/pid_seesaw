@@ -1,0 +1,4 @@
+../Core/Src/motor.c:33:7:MOTOR_Init	1
+../Core/Src/motor.c:41:6:MOTOR_Arm	6
+../Core/Src/motor.c:51:6:MOTOR_Break	6
+../Core/Src/motor.c:59:6:MOTOR_Set	9

@@ -1,0 +1,10 @@
+../Core/Src/mpu6050.c:61:7:MPU6050_1_Init	16	static
+../Core/Src/mpu6050.c:86:9:MPU6050_Wakeup	40	static
+../Core/Src/mpu6050.c:165:6:MPU6050_calibration	48	static
+../Core/Src/mpu6050.c:183:6:MPU6050_Read_Accel_Raw	32	static
+../Core/Src/mpu6050.c:190:6:MPU6050_Read_Accel	56	static
+../Core/Src/mpu6050.c:207:6:MPU6050_Read_Gyro_Raw	32	static
+../Core/Src/mpu6050.c:214:6:MPU6050_Read_Gyro	56	static
+../Core/Src/mpu6050.c:231:7:MPU6050_Read_Roll_Complementary	64	static
+../Core/Src/mpu6050.c:258:19:MPU6050_Request_Read_DMA	24	static
+../Core/Src/mpu6050.c:264:8:MPU6050_Compute_Roll_DMA	32	static
